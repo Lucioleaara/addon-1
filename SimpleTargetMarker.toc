@@ -1,0 +1,10 @@
+## Interface: 110105
+## Title: SimpleTargetMarker
+## Notes: Change the size and color of an icon displayed on your target.
+## Author: VotreNom
+## Version: 1.0.0
+## SavedVariables: SimpleTargetMarkerDB
+
+SimpleTargetMarker.lua
+
+
